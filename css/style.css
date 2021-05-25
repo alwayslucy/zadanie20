@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(185, 236, 219);
+}
+
+section {
+    background-color: rgb(35, 231, 189);
+    width: 700px;
+    height: auto;
+}
+
+h1 {
+    color: rgb(62, 82, 172);
+}
+
+h2 {
+    color: rgb(30, 46, 100);
+}
+
+.pierwsza {
+    color: rgb(37, 100, 61);
+}
+
+.druga {
+    color: rgb(13, 65, 35);
+}
+
+#jeden {
+    color: rgb(17, 0, 255);
+}
+
+#dwa {
+    color: rgb(0, 128, 6);
+}
+
+#trzy {
+    color: rgb(238, 255, 0);
+}
+
+#cztery {
+    color: rgb(255, 145, 0);
+}
+
+#piec {
+    color: rgb(255, 0, 0);
+}
